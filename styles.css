@@ -1,0 +1,36 @@
+.header{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: black;
+    color: yellow;
+}
+
+.poster{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;    
+}
+
+div{
+    margin-top: 15px;
+    text-align: center;
+}
+
+.click{
+    background-color:black;
+    color: yellow;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    border-style: groove;
+}  
+
+.elements{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+
+}
+
+li{
+    margin-top: 10px;
+}
